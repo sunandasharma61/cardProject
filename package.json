@@ -1,0 +1,25 @@
+{
+  "name": "cardproject",
+  "version": "1.0.0",
+  "description": "Dummy project for company (card project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "server/error-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunandasharma61/cardProject.git"
+  },
+  "author": "Sunanda Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunandasharma61/cardProject/issues"
+  },
+  "homepage": "https://github.com/sunandasharma61/cardProject#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
